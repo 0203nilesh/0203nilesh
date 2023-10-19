@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 This is Nilesh and I'm in 4th year student at NIT Mizoram.</h2>
+<h2 align="left">Hi 👋 I'm a final year student specializing in full-stack web development and proficient in Data Structures and Algorithms using the C++ programming language.</h2>
 
 ###
 
